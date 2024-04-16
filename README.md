@@ -1,0 +1,2 @@
+###SIMPLE DRUM KIT WITH SMOOTH TRANSITION USING VANILLA JAVASCRIPT
+CHECK OUT LIVE DEMO : https://drum-kit-js-nati-wonde.netlify.app/
